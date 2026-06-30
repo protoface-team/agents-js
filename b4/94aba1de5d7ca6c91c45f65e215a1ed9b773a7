@@ -1,0 +1,73 @@
+examples/src/protoface_avatar.ts
+  s_197981afe73ee9::t_9ddb95dbabe234 17,26-28
+  s_197981afe73ee9::t_dbd2e843d7a286 1-3,6-10,15,18-23,25,29,39-42
+  s_197981afe73ee9::t_3b17900ab3bfd7 35-38
+  s_197981afe73ee9::t_267fa5d732916e 4-5,11-14,16,24
+  s_197981afe73ee9::t_deafc8540e2068 30-34
+plugins/protoface/README.md
+  s_197981afe73ee9::t_5f67bd3fded646 1-15
+plugins/protoface/tsup.config.ts
+  s_197981afe73ee9::t_3e8191f54689cf 1-9
+plugins/protoface/etc/agents-plugin-protoface.api.md
+  s_197981afe73ee9::t_2f23cf7e135229 33,83
+  s_197981afe73ee9::t_ff4c8e74ae0447 1-32,34-82,84-90
+plugins/protoface/src/index.ts
+  s_197981afe73ee9::t_a75f0cf5b8cc73 1-19
+plugins/protoface/api-extractor.json
+  s_197981afe73ee9::t_9a9e14a1b247d4 1-8
+.changeset/clever-protoface-plugin.md
+  s_197981afe73ee9::t_d586d81a46794d 1-5
+pnpm-lock.yaml
+  s_197981afe73ee9::t_d8ff98ac154d18 305-307,1121-1145
+plugins/protoface/src/log.ts
+  s_197981afe73ee9::t_304d963f9e47c1 1-7
+plugins/protoface/src/avatar.ts
+  s_197981afe73ee9::t_8508958ada2416 33-34,61,72,126
+  s_197981afe73ee9::t_2f246613e0bd1f 139-140,145-146
+  s_197981afe73ee9::t_71e8b2b2f5ed16 1-32,35-60,62-71,73-125,127-138,141-144,147-204
+plugins/protoface/tsconfig.json
+  s_197981afe73ee9::t_3094c31b22ddac 1-15
+plugins/protoface/CHANGELOG.md
+  s_197981afe73ee9::t_eb1bc54f6e8aee 1-7
+plugins/protoface/src/api.test.ts
+  s_197981afe73ee9::t_86b7222937fb4f 42
+  s_197981afe73ee9::t_deafc8540e2068 4,9-10,14-15,19-28,32-35,40,43-47,53-55,57-58,60-62
+  s_197981afe73ee9::t_8508958ada2416 29
+  s_197981afe73ee9::t_2657623cd91027 1-3,5-8,11-13,16-18,30-31,36-39,41,48-52,56,59,63-65
+plugins/protoface/package.json
+  s_197981afe73ee9::t_eb1bc54f6e8aee 1-51
+plugins/protoface/src/avatar.test.ts
+  s_197981afe73ee9::t_8508958ada2416 94,115
+  s_197981afe73ee9::t_2657623cd91027 1-6,8-18,20-32,41-44,58-93,95-114,116-132
+  s_197981afe73ee9::t_deafc8540e2068 7,19,33-40,45-57
+examples/package.json
+  s_197981afe73ee9::t_ff1a0a23fe5c5e 44
+turbo.json
+  s_197981afe73ee9::t_75315a20f120e7 67-69
+plugins/protoface/src/api.ts
+  s_197981afe73ee9::t_e62931fea16656 1-16,18-40,42-67,71-78,81-173,182
+  s_197981afe73ee9::t_86b7222937fb4f 17
+  s_197981afe73ee9::t_deafc8540e2068 68-70,174-176
+  s_197981afe73ee9::t_8508958ada2416 41,79-80,177-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "b494aba1de5d7ca6c91c45f65e215a1ed9b773a7",
+  "prompts": {},
+  "humans": {
+    "h_de56eb73e6f761": {
+      "author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_197981afe73ee9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1967-8173-7fc2-9dbb-8e6e8013e755",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
