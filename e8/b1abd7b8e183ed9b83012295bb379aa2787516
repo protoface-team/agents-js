@@ -1,0 +1,37 @@
+examples/src/protoface_avatar.ts
+  s_f1673bea7c3030::t_7b16585aa9e64f 19-23
+  s_f1673bea7c3030::t_2a8f5b50a1dc9c 28-32
+  s_f1673bea7c3030::t_0598fe46c7878a 42
+  s_f1673bea7c3030::t_872c26ab48977e 37
+pnpm-lock.yaml
+  s_8f0048ccba09d7::t_150f2575045fd3 1189,1198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e8b1abd7b8e183ed9b83012295bb379aa2787516",
+  "prompts": {},
+  "humans": {
+    "h_de56eb73e6f761": {
+      "author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_8f0048ccba09d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5c94-ee27-7aa2-a2b5-dd1039a7947c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    },
+    "s_f1673bea7c3030": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f71d7-0b00-7683-9cb6-498d0c48a6ed",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
