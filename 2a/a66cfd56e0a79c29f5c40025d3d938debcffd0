@@ -1,0 +1,21 @@
+plugins/protoface/package.json
+  s_f1673bea7c3030::t_4682f42cf90e22 3
+plugins/protoface/CHANGELOG.md
+  s_f1673bea7c3030::t_4682f42cf90e22 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2aa66cfd56e0a79c29f5c40025d3d938debcffd0",
+  "prompts": {},
+  "sessions": {
+    "s_f1673bea7c3030": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f71d7-0b00-7683-9cb6-498d0c48a6ed",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    }
+  }
+}
