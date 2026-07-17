@@ -1,0 +1,24 @@
+pnpm-lock.yaml
+  s_8f0048ccba09d7::t_150f2575045fd3 1189,1198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "c0e1ad09a13634d1d9b637a639718151f7c66b31",
+  "prompts": {},
+  "humans": {
+    "h_de56eb73e6f761": {
+      "author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_8f0048ccba09d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5c94-ee27-7aa2-a2b5-dd1039a7947c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    }
+  }
+}
